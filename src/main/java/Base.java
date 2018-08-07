@@ -1,5 +1,6 @@
 /**
  * @author Syzranova Lyudmila
+ * @see #main(String[])
  */
 public class Base {
     public static void main(String[] args) {
